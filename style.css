@@ -1,0 +1,24 @@
+body {
+    background-color: lightslategray;
+}
+
+.test_image_and_result {
+    background-color: lightslategray;
+    color: white;
+    font-size: 20px;
+}
+
+.copy_right_footer {
+    color: white;
+    background-color: lightslategray;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+  }
+
+#conclusion {
+    background-color: lightslategray;
+    color: white;
+    font-size: 20px;
+}
